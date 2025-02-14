@@ -147,7 +147,3 @@ This project provides a hands-on approach to analyzing retail sales data using S
 - **Aggregate Functions**: Use SUM, AVG, COUNT, MAX, and MIN to perform calculations on data.
 - **Filtering**: Implement WHERE and HAVING conditions to filter data based on specific criteria.
 - **Subqueries**: Use subqueries to perform complex data analysis.
-
----
-
-Happy querying! 🚀
